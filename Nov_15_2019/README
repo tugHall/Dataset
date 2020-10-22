@@ -1,2 +1,5 @@
 Dataset using cell-based code (tugHall ver.1.2)
-These data were used for paper.
+These data were used for paper [Bioinformatics, 36(11), 2020, 3597–3599 doi: 10.1093/bioinformatics/btaa182].
+
+Max timestep = 100;
+criteria to stop simulation was N_max = 10^5 cells.
