@@ -1,6 +1,6 @@
 
 
-This is a subset of dataset for simulations with mutation rate equls 10^-08. 
-Other parameters are in the Initial_param/Initial_parameters_*.txt file. 
+This is a subset of dataset for simulations with mutation rate equls 10^-08 (file database_MODELS.txt.zip). 
+Other parameters are in the Initial_param.zip file. 
 Results of simulations are in the database_MODELS.txt file. 
-
+Analyze_MODELS.txt file contains the statistics of simulations for different models and conditions.
