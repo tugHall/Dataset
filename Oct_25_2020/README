@@ -1,3 +1,10 @@
+This is a subset of dataset for simulations with mutation rate equls 4*10^-08 (file database_MODELS.txt.zip). 
+Other parameters are in the Initial_param.zip file. 
+Results of simulations are in the database_MODELS.txt file. 
+Analyze_MODELS.txt file contains the statistics of simulations for different models and conditions.
 
 
-wefasfg
+Max time step = 200,
+Criteria to stop simulation N_max = 10^6 cells.
+
+
