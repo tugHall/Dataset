@@ -7,4 +7,9 @@ Analyze_MODELS.txt file contains the statistics of simulations for different mod
 Max time step = 200,
 Criteria to stop simulation N_max = 10^6 cells.
 
+File data_base_MODELS.txt.zip is splitted by 2. To merger in terminal, please, type command:
+
+cat data_base_MODELS.txt.zip.aa data_base_MODELS.txt.zip.ab  >  data_base_MODELS.txt.zip
+
+and after just unzip it. 
 
